@@ -4,15 +4,26 @@
 
 ### Quiénes sois,  Cúal es el proyecto y Qué se espera de los colaboradores
 
-Nacho Ubeda Pardo
+URL : https://github.com/Mitown1/Practica3github
+Propietarios:
+1. Nacho Ubeda Pardo
 
-Francisco Jimenez 6J
+2. Francisco Jimenez 6J
 
-Eduard Verdeguer Gimenez 
+3. Eduard Verdeguer Gimenez 
 
-Noel Lopez Montes
+4. Noel Lopez Montes
 
-Mar Lerin
+5. Mar Lerin
 
-Robinson Jara 
+6. Robinson Jara 
+Descripcion del proyecto:
+El proyecto es simple lo unico que tienes que hacer es añadir tres peliculas para no aburrirnos en la cuarentena y tu nombre para que sepamos quien nos las ha dicho.
+Peticiones a los colaboradores: 
+Hacer un fork.
+modificar los archivos READMI.md poniendo tu nombre y el archivo pelis.txt añadiendo tres peliculas.
+añadirlos y hacer los commits.
+Y hacer un pull request.
+Otros datos de interes:
+El usuario ardillo es francisco jimenez y no aparece el usuario de Francisco no aparece porque lo borro para ver si desaparecia ardillo y mas tarde se dio cuenta del fallo que le daba.
 
