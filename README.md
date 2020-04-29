@@ -17,13 +17,16 @@ Propietarios:
 5. Mar Lerin
 
 6. Robinson Jara 
+
 Descripcion del proyecto:
 El proyecto es simple lo unico que tienes que hacer es añadir tres peliculas para no aburrirnos en la cuarentena y tu nombre para que sepamos quien nos las ha dicho.
+
 Peticiones a los colaboradores: 
 Hacer un fork.
 modificar los archivos READMI.md poniendo tu nombre y el archivo pelis.txt añadiendo tres peliculas.
 añadirlos y hacer los commits.
 Y hacer un pull request.
+
 Otros datos de interes:
 El usuario ardillo es francisco jimenez y no aparece el usuario de Francisco no aparece porque lo borro para ver si desaparecia ardillo y mas tarde se dio cuenta del fallo que le daba.
 
